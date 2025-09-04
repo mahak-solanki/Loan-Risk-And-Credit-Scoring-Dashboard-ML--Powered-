@@ -20,5 +20,11 @@ The goal is to help financial institutions analyze **loan applicants**, predict 
   - ML Models: Logistic Regression, Random Forest, XGBoost  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-## Dashboard Preview 
+## 📊Dashboard Preview 
 <img width="1279" height="719" alt="Loan_Dashboard_Preview" src="https://github.com/user-attachments/assets/f994b738-b361-4951-a763-b847b1877096" />
+
+📈 Results & Insights
+High-risk borrowers usually have low credit scores & higher loan amounts.
+Income-to-loan ratio strongly affects loan approval chances.
+Logistic regression achieved the best accuracy (~82%) in predicting defaults.
+Dashboard enables quick filtering by property area, education, employment type, and loan status.
