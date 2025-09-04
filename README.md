@@ -25,7 +25,7 @@ The goal is to help financial institutions analyze **loan applicants**, predict 
 
 
 ## 📈 Results & Insights
-High-risk borrowers usually have low credit scores & higher loan amounts.
-Income-to-loan ratio strongly affects loan approval chances.
-Logistic regression achieved the best accuracy (~82%) in predicting defaults.
-Dashboard enables quick filtering by property area, education, employment type, and loan status.
+- High-risk borrowers usually have low credit scores & higher loan amounts.
+- Income-to-loan ratio strongly affects loan approval chances.
+- Logistic regression achieved the best accuracy (~82%) in predicting defaults.
+- Dashboard enables quick filtering by property area, education, employment type, and loan status.
